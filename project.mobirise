@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "SeriousBros",
     "currentPage": "Home.html",
     "theme": {
       "name": "mobirise4",
@@ -33,7 +33,9 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 20,
-    "versionPublish": "4.8.1"
+    "versionPublish": "4.8.1",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "Services.html": {
